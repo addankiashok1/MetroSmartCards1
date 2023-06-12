@@ -1,0 +1,3 @@
+Intall pip install flask
+run app.py 
+copy url to postman and test
